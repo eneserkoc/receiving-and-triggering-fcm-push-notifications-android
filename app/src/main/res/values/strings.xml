@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">receiving-and-triggering-fcm-push-notifications-android</string>
+    <string name="msg_subscribed">subscribed</string>
+    <string name="msg_subscribe_failed">not subscribed</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
